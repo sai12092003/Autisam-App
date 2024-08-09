@@ -18,21 +18,19 @@
 
 ## Screenshots
 
-| Screenshot 1 | Screenshot 2 |
-|--------------|--------------|
-| ![Screenshot 1](https://github.com/sai12092003/Autisam-App/blob/main/1.jpeg?raw=true) | ![Screenshot 2](https://github.com/sai12092003/Autisam-App/blob/main/2.jpeg?raw=true) |
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|--------------|--------------|--------------|--------------|
+| ![Screenshot 1](https://github.com/sai12092003/Autisam-App/blob/main/1.jpeg?raw=true) | ![Screenshot 2](https://github.com/sai12092003/Autisam-App/blob/main/2.jpeg?raw=true) | ![Screenshot 3](https://github.com/sai12092003/Autisam-App/blob/main/3.jpeg?raw=true) | ![Screenshot 4](https://github.com/sai12092003/Autisam-App/blob/main/4.jpeg?raw=true) |
 
-| Screenshot 3 | Screenshot 4 |
-|--------------|--------------|
-| ![Screenshot 3](https://github.com/sai12092003/Autisam-App/blob/main/3.jpeg?raw=true) | ![Screenshot 4](https://github.com/sai12092003/Autisam-App/blob/main/4.jpeg?raw=true) |
 
-| Screenshot 5 | Screenshot 6 |
-|--------------|--------------|
-| ![Screenshot 5](https://github.com/sai12092003/Autisam-App/blob/main/5.jpeg?raw=true) | ![Screenshot 6](https://github.com/sai12092003/Autisam-App/blob/main/6.jpeg?raw=true) |
 
-| Screenshot 7 | Screenshot 8 |
-|--------------|--------------|
-| ![Screenshot 7](https://github.com/sai12092003/Autisam-App/blob/main/7.jpeg?raw=true) | ![Screenshot 8](https://github.com/sai12092003/Autisam-App/blob/main/8.jpeg?raw=true) |
+| Screenshot 5 | Screenshot 6 | Screenshot 7 | Screenshot 8 |
+|--------------|--------------|--------------|--------------|
+| ![Screenshot 5](https://github.com/sai12092003/Autisam-App/blob/main/5.jpeg?raw=true) | ![Screenshot 6](https://github.com/sai12092003/Autisam-App/blob/main/6.jpeg?raw=true) | ![Screenshot 7](https://github.com/sai12092003/Autisam-App/blob/main/7.jpeg?raw=true) | ![Screenshot 8](https://github.com/sai12092003/Autisam-App/blob/main/8.jpeg?raw=true) |
+
+
+
+
 
 ## Play Store
 
