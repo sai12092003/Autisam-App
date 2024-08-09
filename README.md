@@ -1,4 +1,4 @@
-# Autisam-App
+# Autism-App
 
 ![Autisam App Logo](https://github.com/sai12092003/Autisam-App/blob/main/logo.jpeg?raw=true)
 
